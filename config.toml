@@ -1,20 +1,21 @@
-baseURL = "localhost:1313"
+baseURL = "shiyue-li.github.io"
 languageCode = "en-us"
-title = "My Portfolio Website"
+publishDir = "/Users/admin/Documents/GitHub/shiyue-li.github.io"
+title = "Shiyue Li"
 theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
     theme_color = "#574CDD"
-    description = "Portfolio of Alexis Collado, UX Designer"
-    description_photo = "portfolio.jpg"
-    favicon = "favicon.png"
-    logo = "logo.png"
-    email = "myemail@gmail.com"
-    facebook = "lex.collado"
-    twitter = "lexiscollado"
-    dribbble = "alexiscollado"
-    linkedin = "https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a"
+    description = "Shiyue Li"
+    description_photo = "portfolio.jpg" # need update
+    favicon = "favicon.png"  # need update
+    logo = "logo.png"  # need update
+    email = "shiyue.li@yale.edu"
+    facebook = "lex.collado"  # need update
+    twitter = "lexiscollado"  # need update
+    dribbble = "alexiscollado"  # need update
+    # linkedin = "https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a"
     medium = "ahvccollado"
 
 [params.nav]
@@ -23,9 +24,9 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 [params.hero]
     enable = true
     avatar = "avatar.jpg"
-    subtitle = "Hi! I'm Alexis, a UX Designer and Evangelist from Manila."
-    hero_right = ["**Currently doing consultancy work at UX Society. Previously doing UX and product at Agoda in Bangkok, Thailand as an international intern.**", "I founded [User Experience Society](https://www.facebook.com/UXSoc/), the first student UX organization in the Philippines. For two years, we've had 20+ events with 30+ speakers for over 300 members and 500+ attendees. We've expanded to [California](https://www.facebook.com/profile.php?id=245708449193012) this year.", "I do a bit of writing as well. [Here's an article with a total of 21,000+ views to InVision & Medium](http://blog.invisionapp.com/ux-internship-wisdom/) talking about 50 things I learned spending 3 years as a UX intern.", "I help cultivate the design community in Manila too. I'm the youngest core member of [UX Philippines](https://www.facebook.com/groups/uxphilippines/) and I moderated a panel with some cool people for the [UXPH 2017 Conference](https://www.uxphilippines.com).", "I'm finishing my Bachelor's degree in Management Information Systems at the Ateneo de Manila University, expecting to graduate in 2018."]
-    resume = "ResumeCollado.pdf"
+    subtitle = "Hi! I'm Shiyue, a Math grad student at Yale."
+    hero_right = ["**Currently doing consultancy work at UX Society. Previously doing UX and product at Agoda in Bangkok, Thailand as an international intern.**", "I founded [User Experience Society](https://www.facebook.com/UXSoc/), the first student UX organization in the Philippines. For two years, we've had 20+ events with 30+ speakers for over 300 members and 500+ attendees. We've expanded to [California](https://www.facebook.com/profile.php?id=245708449193012) this year.", "I do a bit of writing as well. [Here's an article with a total of 21,000+ views to InVision & Medium](http://blog.invisionapp.com/ux-internship-wisdom/) talking about 50 things I learned spending 3 years as a UX intern.", "I help cultivate the design community in Manila too. I'm the youngest core member of [UX Philippines](https://www.facebook.com/groups/uxphilippines/) and I moderated a panel with some cool people for the [UXPH 2017 Conference](https://www.uxphilippines.com).", "I'm finishing my Bachelor's degree in Management Information Systems at the Ateneo de Manila University, expecting to graduate in 2018."] 
+    resume = "ResumeCollado.pdf"  # need update
 
 [params.process]
     enable = true
