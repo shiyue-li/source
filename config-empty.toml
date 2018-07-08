@@ -37,7 +37,7 @@ theme = "hugo-lodi-theme"
 
     # LinkedIn URL
     # linkedin = ""
-    
+
     # Medium username
     # medium = "asdf"
 
@@ -46,7 +46,7 @@ theme = "hugo-lodi-theme"
 
 [params.hero]
     enable = true
-    
+
     # Place this image in the static/img folder
     avatar = "avatar.jpg"
     subtitle = "Hi! I'm Juan, a front-end developer from Manila."
@@ -63,9 +63,9 @@ theme = "hugo-lodi-theme"
     # Link to your resume, place your PDF in the /static folder
     resume = "resume.pdf"
 
-[params.process]
+[params.research]
     enable = true
-    title = "My Process"
+    title = "My Research"
     subtitle = "Full Process Design"
 
 [params.case_studies]
