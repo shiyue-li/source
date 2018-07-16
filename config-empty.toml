@@ -70,8 +70,8 @@ theme = "hugo-lodi-theme"
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
-    subtitle = "Selected Works"
+    title = "Notes"
+    subtitle = "Notes for math classes that I teach."
 
 [params.footer]
     enable = true

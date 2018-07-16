@@ -15,10 +15,10 @@ nav_heading: "Cope Case Study"
 thumbnail: "cope.jpg"
 
 # This is the title of the case study in the case studies section
-case_short_title: "Cope iOS App"
+case_short_title: "Canada/USA Mathcamp 2018"
 
 # This is the title of the case study in the case study page
-case_title: "Cope iOS App"
+case_title: "Canada/USA Mathcamp 2018"
 
 # This is the subtitle of the case study in the case studies section and the case study page
 case_subtitle: "Mobile App Design"

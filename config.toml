@@ -24,9 +24,17 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 [params.hero]
     enable = true
     avatar = "avatar.jpg"
-    subtitle = "I'm Shiyue."
-    hero_right = ["**Hello!**"]
-    resume = "ResumeCollado.pdf"  # need update
+    subtitle = "Shiyue Li."
+    hero_right = ["**Curiouser and curiouser!**",
+    "I'm a first year PhD student, and a Lang Fellow at the [Mathematics department of Yale University](https://math.yale.edu).",
+    "I converged to my current stage of life via wonderful four years at [Harvey Mudd College](https://www.hmc.edu).",
+    "Currently mentor at [Canada/USA Mathcamp 2018](https://www.mathcamp.org), I have a lot of fun teaching and working with awesome friends here at Mathcamp",
+    ]
+    # "I'm a first year PhD student, and a Lang Fellow at the Mathematics department of Yale University.
+    # I converged to my current stage of life via Harvey Mudd College.
+    # Born and raised in Jiangsu, China, I started my adventure in the U.S. as a member
+    # of the Summer Science Program NM 2012."]
+    resume = "shiyueli_cv.pdf"  # need update
 
 [params.research]
     enable = true
@@ -35,8 +43,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
-    subtitle = "Selected Works"
+    title = "Math Notes"
+    subtitle = "Notes for math classes that I teach."
 
 [params.footer]
     enable = true

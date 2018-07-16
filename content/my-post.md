@@ -9,22 +9,22 @@ title: "Cope | Alexis Collado"
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "Cope Case Study"
+nav_heading: "Canada/USA Mathcamp"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "cope.jpg"
 
 # This is the title of the case study in the case studies section
-case_short_title: "Cope iOS App"
+case_short_title: "Canada/USA Mathcamp"
 
 # This is the title of the case study in the case study page
-case_title: "Cope iOS App"
+case_title: "Canada/USA Mathcamp"
 
 # This is the subtitle of the case study in the case studies section and the case study page
-case_subtitle: "Mobile App Design"
+case_subtitle: "Summer 2018, Golden, CO"
 
 # This is the case description in the case studies section
-case_description: "Cope is a mobile app that allows mental health help seekers track their symptoms and medication. I helped them create a minimum viable product for testing."
+case_description: "I taught 4 week-long courses on algebraic number theory, modular forms, geometric group theory and rational points on elliptic curves."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
@@ -34,7 +34,7 @@ case_feature_img: "featured-cope.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
 
 # Your team members
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+team: ["Shiyue Li"]
 
 # Roles of your team members
 roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
@@ -48,7 +48,7 @@ methods: ["Sketching", "Mockups", "Guerilla Testing"]
 button_links:
     - link: "https://marvelapp.com/g4b64e/screen/14364499"
       img: "eyeball.svg"
-      text: "View Prototype"
+      text: "Lecture Notes on Algebraic Number Theory"
     - link: "http://copenow.co/"
       img: "eyeball.svg"
       text: "View Landing Page"
