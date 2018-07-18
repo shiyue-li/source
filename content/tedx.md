@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "TEDxADMU | Alexis Collado"
+title: "TEDxADMU | Shiyue Li"
 description: "I strategized, designed, and developed a simple landing page for TEDxADMU to set their application conversions to 66.8%."
 nav_heading: "TEDxADMU Case Study"
 thumbnail: "tedx.jpg"
@@ -10,7 +10,7 @@ case_subtitle: "Web Design"
 case_description: "The TEDxADMU website was a project for the Ateneo Junior Marketing Association. It's a project where I helped them reach a 66.8% conversion rate from scratch."
 case_feature_img: "featured-tedx.jpg"
 case_summary: "TEDxADMU is an independently organized community event that aims to spread ideas that inform and transform society. My role in the project was to design their website and make the application process as easy and seamless as possible."
-team: ["Alexis Collado", "Royce Chan"]
+team: ["Shiyue Li", "Royce Chan"]
 roles: ["Project Manager", "User Interface Design", "Front-end Development"]
 methods: ["Contextual Inquiry", "Google Analytics", "Web Development", "User Interface Design"]
 button_links:

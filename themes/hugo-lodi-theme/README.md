@@ -1,6 +1,6 @@
 # Lodi Theme
 
-This theme is a Hugo port of [Alexis Collado's portfolio website](http://www.alexiscollado.com). It is meant to be a portfolio theme, with sections for describing yourself, your 
+This theme is a Hugo port of [Shiyue Li's portfolio website](http://www.alexiscollado.com). It is meant to be a portfolio theme, with sections for describing yourself, your 
 process, and some case studies.
 
 ![](images/screenshot.png)
@@ -39,7 +39,7 @@ to generate a new case study post. To find the post, you can go to `content/mypo
 weight: 1
 
 # This is what appears as the tab's title
-title: "Cope | Alexis Collado"
+title: "Cope | Shiyue Li"
 
 # This is the description in the <head> tag
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
@@ -70,7 +70,7 @@ case_feature_img: "featured-cope.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
 
 # Your team members
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+team: ["Shiyue Li", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
 
 # Roles of your team members
 roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
@@ -115,4 +115,4 @@ draft: false
 
 ## Credits
 
-Credits for this theme goes fully to Alexis Collado, UX design lodi and cofounder of the User Experience Society. More werpa to you.
+Credits for this theme goes fully to Shiyue Li, UX design lodi and cofounder of the User Experience Society. More werpa to you.

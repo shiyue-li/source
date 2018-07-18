@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Cope | Alexis Collado"
+title: "Cope | Shiyue Li"
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
 nav_heading: "Cope Case Study"
 thumbnail: "cope.jpg"
@@ -10,7 +10,7 @@ case_subtitle: "Mobile App Design"
 case_description: "Cope is a mobile app that allows mental health help seekers track their symptoms and medication. I helped them create a minimum viable product for testing."
 case_feature_img: "featured-cope.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+team: ["Shiyue Li", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
 roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
 methods: ["Sketching", "Mockups", "Guerilla Testing"]
 button_links:

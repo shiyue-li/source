@@ -3,7 +3,7 @@
 weight: 1
 
 # This is what appears as the tab's title
-title: "Cope | Alexis Collado"
+title: "Cope | Shiyue Li"
 
 # This is the description in the <head> tag
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
@@ -34,7 +34,7 @@ case_feature_img: "featured-cope.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
 
 # Your team members
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+team: ["Shiyue Li", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
 
 # Roles of your team members
 roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
