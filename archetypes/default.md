@@ -3,13 +3,13 @@
 weight: 1
 
 # This is what appears as the tab's title
-title: "Cope | Shiyue Li"
+title: "Shiyue Li | Notes"
 
 # This is the description in the <head> tag
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "Cope Case Study"
+nav_heading: "Poems"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "cope.jpg"
@@ -31,22 +31,22 @@ case_description: "Cope is a mobile app that allows mental health help seekers t
 case_feature_img: "featured-cope.jpg"
 
 # This is the case summary in the case itself
-case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
+case_summary: "Let's see what's happening here"
 
 # Your team members
-team: ["Shiyue Li", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+# team: ["Shiyue Li", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
 
 # Roles of your team members
-roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
+# roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
 
 # Methods your team members used
-methods: ["Sketching", "Mockups", "Guerilla Testing"]
+# methods: []
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "https://marvelapp.com/g4b64e/screen/14364499"
+    - link: "shiyueli_cv.pdf"
       img: "eyeball.svg"
       text: "View Prototype"
     - link: "http://copenow.co/"
@@ -57,7 +57,7 @@ button_links:
       text: "Download Feature Sets"
 
 # Testimonial text
-testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
+# testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img

@@ -35,9 +35,6 @@ theme = "hugo-lodi-theme"
     # Dribbble username
     # dribbble = ""
 
-    # LinkedIn URL
-    # linkedin = ""
-    
     # Medium username
     # medium = "asdf"
 
@@ -46,7 +43,7 @@ theme = "hugo-lodi-theme"
 
 [params.hero]
     enable = true
-    
+
     # Place this image in the static/img folder
     avatar = "avatar.jpg"
     subtitle = "Hi! I'm Juan, a front-end developer from Manila."
@@ -61,7 +58,7 @@ theme = "hugo-lodi-theme"
     "Please enjoy the rest of my website."]
 
     # Link to your resume, place your PDF in the /static folder
-    resume = "resume.pdf"
+    resume = "shiyueli_cv.pdf"
 
 [params.process]
     enable = true

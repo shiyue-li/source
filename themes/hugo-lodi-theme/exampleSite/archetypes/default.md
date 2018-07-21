@@ -34,7 +34,7 @@ case_feature_img: "featured-cope.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
 
 # Your team members
-team: ["Shiyue Li", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+team: ["Shiyue Li"]
 
 # Roles of your team members
 roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
