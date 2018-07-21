@@ -11,7 +11,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     description_photo = "portfolio.jpg" # need update
     favicon = "favicon.png"  # need update
     logo = "logo.png"  # need update
-    email = "(first_name)[dot](last_name)[at]yale.edu"
+    email = "shiyue.li@yale.edu"
     # facebook = "lex.collado"  # need update
     # twitter = "lexiscollado"  # need update
     # dribbble = "alexiscollado"  # need update
@@ -36,10 +36,9 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     # of the Summer Science Program NM 2012."]
     resume = "shiyueli_cv.pdf"  # need update
 
-[params.research]
+[params.math]
     enable = true
-    title = "My Research"
-    subtitle = "Research in Mathematics"
+    title = "Mathematics"
 
 [params.case_studies]
     enable = true

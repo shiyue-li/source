@@ -13,6 +13,6 @@ min_version = "0.29"
 
 # If porting an existing theme
 [original]
-  author = "Shiyue Li"
+  author = "Alexis Collado"
   name = "Portfolio"
   homepage = "http://www.alexiscollado.com"
