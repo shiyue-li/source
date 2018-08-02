@@ -12,7 +12,7 @@
             {{ $baseUrl := .Site.BaseURL }}
             {{ range $element := .Params.button_links }}
             <div class="link-div">
-                <a href="{{ $element.link }}" target="blank">
+                <a href="{{ $element.link }}" target="blank" class="case-detail-link">
                     {{ if eq $element.img "download.svg" }}
                     <img style="top:1.8px;" src="{{ $baseUrl }}svg/{{ $element.img }}"> <!--class="case-detail-link">-->
                     {{ else }}

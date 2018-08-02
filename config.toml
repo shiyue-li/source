@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://shiyue-li.github.io/"
 languageCode = "en-us"
 publishDir = "/Users/admin/Documents/GitHub/shiyue-li.github.io/"
 title = "Shiyue Li"
@@ -42,8 +42,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params.case_studies]
     enable = true
-    title = "Math Notes"
-    subtitle = "Notes for math classes that I teach."
+    title = "Teaching"
+    subtitle = "Notes and course pages of classes I taught."
 
 [params.footer]
     enable = true
