@@ -20,7 +20,7 @@ case_summary: "I taught 4 week-long courses on algebraic number theory, modular 
 button_links:
     - link: "shiyueli-mathcamp-modular-forms.pdf"
       img: "download.svg"
-      text: "Modular Forms"
+      text: "Automorphic Forms"
     - link: "shiyueli-mathcamp-ant.pdf"
       img: "download.svg"
       text: "Algebraic Number Theory"
