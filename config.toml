@@ -26,10 +26,14 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     avatar = "avatar.jpg"
     subtitle = "Shiyue Li."
     hero_right = ["**Curiouser and curiouser!**",
-    "I'm a first year PhD student, and a Lang Fellow at the [Mathematics department of Yale University](https://math.yale.edu).",
-    "I converged to my current stage of life via wonderful four years at [Harvey Mudd College](https://www.hmc.edu).",
-    "Currently mentor at [Canada/USA Mathcamp 2018](https://www.mathcamp.org), I have a lot of fun teaching and working with awesome friends here at Mathcamp",
+    "I'm a first year PhD student, and a Lang Fellow at the [Department of Mathematics at Yale](https://math.yale.edu).",
+    "I converged to my current stage of life via wonderful four years at [Harvey Mudd College](https://www.hmc.edu) studying math, CS and music.",
+    "At Harvey Mudd, I worked with [Dagan Karp](https://www.math.hmc.edu/~dk/) on thesis [Tropical Derivation of Cohomology Ring of Heavy/light Hassett Spaces](http://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1101&context=hmc_theses) -- a fun project proposed by [Dhruv Ranganathan](http://www.dhruvrnathan.net/)",
+    "Before becoming a math major in senior year, I was an absent-minded programmer and was a software engineer intern at Google Research, advised by [Caroline Pantofaru](http://www.pantofaru.com/research/) and [Malcolm Slaney](http://www.slaney.org/malcolm/pubs.html).",
+    "In Summer 2018, I'm a mentor at [Canada/USA Mathcamp 2018](https://www.mathcamp.org).",
+    "In Fall 2018, I'm the organizer of the [Directed Reading Program](https://math.yale.edu/undergrad-programs/directed-reading-program) at Yale.",
     ]
+
     # "I'm a first year PhD student, and a Lang Fellow at the Mathematics department of Yale University.
     # I converged to my current stage of life via Harvey Mudd College.
     # Born and raised in Jiangsu, China, I started my adventure in the U.S. as a member
