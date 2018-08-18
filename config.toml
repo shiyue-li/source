@@ -44,6 +44,10 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     title = "Mathematics"
 
+[params.travel]
+    enable = true
+    title = "Travels"
+
 [params.case_studies]
     enable = true
     title = "Teaching"

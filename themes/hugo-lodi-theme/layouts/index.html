@@ -21,6 +21,10 @@
             {{ partial "case_studies.html" . }}
             {{ end }}
 
+            {{ if .Site.Params.travel.enable }}
+            {{ partial "travel.html" . }}
+            {{ end }}
+
             {{ if .Site.Params.footer.enable }}
             {{ partial "footer.html" . }}
             {{ end }}
