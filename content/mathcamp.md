@@ -9,8 +9,8 @@ case_feature_img: "mathcamp.png"
 case_short_title: "Canada/USA Mathcamp"
 case_title: "Canada/USA Mathcamp"
 # case_subtitle: "Summer 2018, Golden, CO"
-case_description: "I taught 5 week-long courses on algebraic number theory, modular forms, geometric group theory, rational points on elliptic curves, and tropical plane curves."
-case_summary: "I taught 5 week-long courses on algebraic number theory, modular forms, geometric group theory, rational points on elliptic curves and tropical plane curves."
+case_description: "In Summer 2018, I taught 5 week-long courses on algebraic number theory, modular forms, geometric group theory, rational points on elliptic curves, and tropical plane curves at Mathcamp."
+case_summary: "In Summer 2018, I taught 5 week-long courses on algebraic number theory, modular forms, geometric group theory, rational points on elliptic curves and tropical plane curves at Mathcamp."
 
 # classes: ["Algebraic Number Theory", "Modular Forms", "Trees", "Rational Points on Elliptic Curves", "Tropical Plane Curves"]
 
@@ -18,12 +18,12 @@ case_summary: "I taught 5 week-long courses on algebraic number theory, modular 
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "shiyueli-mathcamp-modular-forms.pdf"
-      img: "download.svg"
-      text: "Automorphic Forms"
     - link: "shiyueli-mathcamp-ant.pdf"
       img: "download.svg"
       text: "Algebraic Number Theory"
+    - link: "shiyueli-mathcamp-modular-forms.pdf"
+      img: "download.svg"
+      text: "Modular Forms"
     - link: "shiyueli-mathcamp-trees.pdf"
       img: "download.svg"
       text: "Trees"
