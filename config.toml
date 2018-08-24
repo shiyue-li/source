@@ -8,7 +8,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 [params]
     theme_color = "#574CDD"
     description = "Shiyue Li"
-    description_photo = "portfolio.jpg" # need update
+    description_photo = "portfolio.png" # need update
     favicon = "favicon.png"  # need update
     logo = "logo.png"  # need update
     email = "shiyue.li@yale.edu"
