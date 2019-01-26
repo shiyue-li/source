@@ -1,6 +1,6 @@
 # Lodi Theme
 
-This theme is a Hugo port of [Shiyue Li's portfolio website](http://www.alexiscollado.com). It is meant to be a portfolio theme, with sections for describing yourself, your 
+This theme is a Hugo port of [Shiyue Li's portfolio website](http://www.alexiscollado.com). It is meant to be a portfolio theme, with sections for describing yourself, your
 process, and some case studies.
 
 ![](images/screenshot.png)
@@ -115,4 +115,4 @@ draft: false
 
 ## Credits
 
-Credits for this theme goes fully to Shiyue Li, UX design lodi and cofounder of the User Experience Society. More werpa to you.
+Credits for this theme goes fully to alexiscollado, UX design lodi and cofounder of the User Experience Society. More werpa to you.
