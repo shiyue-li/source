@@ -9,8 +9,8 @@ case_feature_img: "mathcamp.png"
 case_short_title: "Canada/USA Mathcamp"
 case_title: "Canada/USA Mathcamp"
 # case_subtitle: "Summer 2018, Golden, CO"
-case_description: "In Summer 2018, I taught 5 week-long courses on algebraic number theory, modular forms, geometric group theory, rational points on elliptic curves, and tropical plane curves at Mathcamp."
-case_summary: "In Summer 2018, I taught 5 week-long courses on algebraic number theory, modular forms, geometric group theory, rational points on elliptic curves and tropical plane curves at Mathcamp."
+case_description: "In Summer 2018 and 2019, I taught 9 week-long courses on algebraic number theory, modular forms, geometric group theory, rational points on elliptic curves, tropical plane curves, group theory, Young tableaux at Mathcamp. "
+case_summary: "In Summer 2018, I taught 5 week-long courses on algebraic number theory, modular forms, geometric group theory, rational points on elliptic curves and tropical plane curves at Mathcamp. In Summer 2019, I taught 3 themed courses on Young Tableaux. They demonstrate the connections of Young Tableaux with representation theory, combinatorics, and probability. I also taught Introduction to Group Theory. Notes are coming up soon."
 
 # classes: ["Algebraic Number Theory", "Modular Forms", "Trees", "Rational Points on Elliptic Curves", "Tropical Plane Curves"]
 
