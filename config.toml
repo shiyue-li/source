@@ -11,11 +11,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     description_photo = "portfolio.png" # need update
     favicon = "favicon.png"  # need update
     logo = "logo.png"  # need update
-    email = "shiyue.li@yale.edu"
-    # facebook = "lex.collado"  # need update
-    # twitter = "lexiscollado"  # need update
-    # dribbble = "alexiscollado"  # need update
-    # linkedin = "https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a"
+    email = "shiyue_li@brown.edu"
     github = "https://github.com/shiyue-li"
 
 [params.nav]
@@ -39,13 +35,17 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     title = "Research"
 
+[params.teaching]
+        enable = true
+        title = "Teaching"
+
 [params.travel]
     enable = true
     title = "Travels"
 
-[params.case_studies]
+[params.misc]
     enable = true
-    title = "Teaching"
+    title = "Miscellaneous"
 
 [params.footer]
     enable = true

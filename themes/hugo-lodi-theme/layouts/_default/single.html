@@ -9,14 +9,14 @@
         {{ partial "casestudy_main.html" . }}
         <!-- {{ partial "testimonial.html" . }} -->
 
-        <section>
+        <!-- <section>
             <div class="content-case-study">
                 {{ .Content }}
             </div>
-        </section>
+        </section> -->
 
-        {{ if .Site.Params.case_studies.enable }}
-        {{ partial "case_studies.html" . }}
+        {{ if .Site.Params.teaching.enable }}
+        {{ partial "teaching.html" . }}
         {{ end }}
 
         {{ if .Site.Params.footer.enable }}

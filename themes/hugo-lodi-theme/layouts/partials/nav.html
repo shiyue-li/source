@@ -9,8 +9,16 @@
         <a href="#" class="main-navigation-link" data-scroll-goto="1">{{ .Site.Params.research.title }}</a>
         {{ end }}
 
-        {{ if .Site.Params.case_studies.enable }}
-        <a href="#" class="main-navigation-link" data-scroll-goto="2">{{ .Site.Params.case_studies.title }}</a>
+        {{ if .Site.Params.teaching.enable }}
+        <a href="#" class="main-navigation-link" data-scroll-goto="2">{{ .Site.Params.teaching.title }}</a>
+        {{ end }}
+
+        {{ if .Site.Params.travel.enable }}
+        <a href="#" class="main-navigation-link" data-scroll-goto="3">{{ .Site.Params.travel.title }}</a>
+        {{ end }}
+
+        {{ if .Site.Params.misc.enable }}
+        <a href="#" class="main-navigation-link" data-scroll-goto="4">{{ .Site.Params.misc.title }}</a>
         {{ end }}
 
     </div>

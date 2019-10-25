@@ -17,12 +17,16 @@
             {{ partial "research.html" . }}
             {{ end }}
 
-            {{ if .Site.Params.case_studies.enable }}
-            {{ partial "case_studies.html" . }}
+            {{ if .Site.Params.teaching.enable }}
+            {{ partial "teaching.html" . }}
             {{ end }}
 
             {{ if .Site.Params.travel.enable }}
             {{ partial "travel.html" . }}
+            {{ end }}
+
+            {{ if .Site.Params.misc.enable }}
+            {{ partial "misc.html" . }}
             {{ end }}
 
             {{ if .Site.Params.footer.enable }}
