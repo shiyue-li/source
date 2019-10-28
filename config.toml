@@ -36,8 +36,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     title = "Research"
 
 [params.teaching]
-        enable = true
-        title = "Teaching"
+    enable = true
+    title = "Teaching"
 
 [params.travel]
     enable = true
