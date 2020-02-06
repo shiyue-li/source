@@ -37,7 +37,7 @@ case_summary: "Let's see what's happening here"
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "shiyueli_cv.pdf"
+    - link: "shiyueli-2020jan.pdf"
       img: "eyeball.svg"
       text: "View Prototype"
     - link: "http://copenow.co/"

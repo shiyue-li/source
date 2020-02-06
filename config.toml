@@ -30,7 +30,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     "In Summer 2018 and 2019, I had loads of fun teaching at [Canada/USA Mathcamp](https://www.mathcamp.org).",
     ]
 
-    resume = "shiyueli_cv.pdf"  # need update
+    resume = "shiyueli-2020jan.pdf"  # need update
 
 [params.research]
     enable = true
