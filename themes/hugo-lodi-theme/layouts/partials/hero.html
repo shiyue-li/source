@@ -1,12 +1,13 @@
 <section style="padding-top: 120px;" id="scroll-element" data-scroll-index="0">
     <div class="hero">
         <div class="hero-left">
-            <img src="{{ .Site.BaseURL }}img/{{ .Site.Params.Hero.Avatar }}" style="max-width: 50%; border-radius: 50%; ">
-            <h2 class="subtitle">{{ .Site.Params.Hero.subtitle }}</h2>
-            <div class="icons">
+            <img src="{{ .Site.BaseURL }}img/{{ .Site.Params.Hero.Avatar }}" style="max-width: 100%; border-radius: 100%; ">
+            <h2 style="text-align:center;" class="subtitle">{{ .Site.Params.Hero.subtitle }}</h2>
+
+            <div class="icons" style="text-align:center">
                 {{ if isset .Site.Params "email" }}
-                <a href="mailto:{{ .Site.Params.Email }}">
-                    <svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
+                <a style="text-align:center;" href="mailto:{{ .Site.Params.Email }}">
+                    <svg width="24px" height="21px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
                         <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
                         <title>ui-16px-1_email-84</title>
                         <desc>Created with Sketch.</desc>
@@ -22,6 +23,10 @@
                         </g>
                     </svg>
                 </a>
+                {{ end }}
+                {{ if isset .Site.Params.Hero "resume" }}
+                <a href="{{ .Site.BaseURL }}{{ .Site.Params.Hero.Resume }}" target="blank" onclick="ga('send', {hitType: 'event',eventCategory: 'CTA',eventAction: 'download'});">
+                    <img width="29px" style="padding-right: 6px;" src="svg/ui.svg"  ></a>
                 {{ end }}
                 {{ if isset .Site.Params "facebook" }}
                 <a href="https://facebook.com/{{ .Site.Params.Facebook }}" target="blank">
@@ -106,11 +111,6 @@
                 </a>
                 {{ end }}
             </div>
-            {{ if isset .Site.Params.Hero "resume" }}
-            <a href="{{ .Site.BaseURL }}{{ .Site.Params.Hero.Resume }}" target="blank" class="download-resume" onclick="ga('send', {hitType: 'event',eventCategory: 'CTA',eventAction: 'download'});">
-                <!-- <img style="position: relative;top: 1.8px;padding-right: 6px;" src="svg/dl-resume.svg"  > -->
-                Curriculum Vitae</a>
-            {{ end }}
         </div>
         <div class="hero-right">
             {{ range $paragraph := .Site.Params.Hero.hero_right }}
