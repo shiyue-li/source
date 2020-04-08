@@ -5,20 +5,14 @@
             <h2 style="text-align:center;" class="subtitle">{{ .Site.Params.Hero.subtitle }}</h2>
 
             <div class="icons">
-                {{ if isset .Site.Params.Hero "resume" }}
-                <a href="{{ .Site.BaseURL }}{{ .Site.Params.Hero.Resume }}" target="blank" class="download-resume" onclick="ga('send', {hitType: 'event',eventCategory: 'CTA',eventAction: 'download'});">
-                <!-- <img style="position: relative;padding-right: 0px;" class="center" src="svg/dl-resume.svg"> -->
-                Curriculum Vitae</a>
-                {{ end }}
-
                 {{ if isset .Site.Params "email" }}
                 <a style="text-align:center;" href="mailto:{{ .Site.Params.Email }}">
-                    <svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
+                    <svg width="25px" height="27px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
                         <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
                         <title>ui-16px-1_email-84</title>
-                        <desc> .</desc>
+                        <desc> </desc>
                         <defs></defs>
-                        <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g id="Portfolio" stroke="none" stroke-width="4" fill="none" fill-rule="evenodd">
                             <g transform="translate(-94.000000, -336.000000)" id="Group" fill="#505050">
                                 <g transform="translate(94.000000, 335.000000)">
                                     <g id="ui-16px-1_email-84" transform="translate(0.000000, 1.000000)">
@@ -30,15 +24,11 @@
                     </svg>
                 </a>
                 {{ end }}
-                <!-- Alternative resume style -->
-                <!-- {{ if isset .Site.Params.Hero "resume" }}
-                <a href="{{ .Site.BaseURL }}{{ .Site.Params.Hero.Resume }}" target="blank" onclick="ga('send', {hitType: 'event',eventCategory: 'CTA',eventAction: 'download'});">
-                    <img width="29px" style="padding-right: 6px;" src="svg/ui.svg"  ></a>
-                {{ end }} -->
+
 
                 {{ if isset .Site.Params "googlescholar" }}
                 <a href="{{ .Site.Params.googlescholar }}" target="blank">
-                  <svg width="17px" height="17px" viewBox="0 0 1700 1700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <svg width="25px" height="24px" viewBox="0 0 1800 1800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <title>social-16px_logo-googlescholar</title>
                       <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                           <g id="GoogleScholar-Mark" transform="translate(-4.000000, 1600.000000)" fill="#505050">
@@ -52,7 +42,7 @@
                 {{ end }}
                 {{ if isset .Site.Params "github" }}
                 <a href="https://github.com/{{ .Site.Params.Github }}" target="blank">
-                  <svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <svg width="25px" height="24px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
                     <title>social-16px_logo-github</title>
                       <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -63,6 +53,20 @@
                   </svg>
                 </a>
                 {{ end }}
+
+                <!-- {{ if isset .Site.Params.Hero "resume" }}
+                <a href="{{ .Site.BaseURL }}{{ .Site.Params.Hero.Resume }}" target="blank" class="download-resume" onclick="ga('send', {hitType: 'event',eventCategory: 'CTA',eventAction: 'download'});">
+                <!-- <img style="position: relative;padding-right: 0px;" class="center" src="svg/dl-resume.svg"> -->
+                <!-- Curriculum Vitae</a>
+                {{ end }} -->
+
+
+                {{ if isset .Site.Params.Hero "resume" }}
+                <a href="{{ .Site.BaseURL }}{{ .Site.Params.Hero.Resume }}" target="blank" onclick="ga('send', {hitType: 'event',eventCategory: 'CTA',eventAction: 'download'});">
+                    <img width="30px"  height="24px" viewBox="0 0 15 15" style="padding-right: 6px;" src="svg/ui.svg"  ></a>
+                {{ end }}
+
+
                 {{ if isset .Site.Params "facebook" }}
                 <a href="https://facebook.com/{{ .Site.Params.Facebook }}" target="blank">
                     <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
