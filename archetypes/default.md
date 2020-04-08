@@ -40,12 +40,6 @@ button_links:
     - link: "shiyueli-2020jan.pdf"
       img: "eyeball.svg"
       text: "View Prototype"
-    - link: "http://copenow.co/"
-      img: "eyeball.svg"
-      text: "View Landing Page"
-    - link: "cope.pdf"
-      img: "download.svg"
-      text: "Download Feature Sets"
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img

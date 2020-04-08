@@ -13,6 +13,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     logo = "logo.png"  # need update
     email = "shiyue_li@brown.edu"
     github = "https://github.com/shiyue-li"
+    googlescholar = "https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en"
+
 
 [params.nav]
     enable = true
