@@ -24,9 +24,12 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     avatar = "avatar.jpg"
     subtitle = "Shiyue Li"
     hero_right = ["**Curiouser and curiouser!**",
-    "I'm a PhD student in Mathematics at [Brown University](https://www.brown.edu/academics/math/). My advisor is [Melody Chan](https://www.math.brown.edu/~mtchan/).",
+    "I'm a PhD student in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
     "My current research interest is to study enumerative and intersection problems in algebraic geometry and arithmetic geometry, using techniques from combinatorics and representation theory.",
-    "Prior to Brown, I was a Lang Fellow at [Yale](https://math.yale.edu/) 2017-2019 where I got my master's degree in math and had spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) studying math, CS and music.",
+    "Prior to Brown, I was a Lang Fellow at [Yale](https://math.yale.edu/) 2017-2019 where I got my master's degree in math.",
+    "I spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) studying math, CS and music.",
+    "During undergrad, I enjoyed computing and AI. With that, I was lucky to work with amazing research scientists on an experimental project at [Google Research](https://research.google/).",
+    "You can click on the four icons below my profile pic for my cv, email, github and google scholar, up to a permutation."
     ]
 
     resume = "shiyueli-2020jan.pdf"  # need update
