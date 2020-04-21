@@ -42,7 +42,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     title = "Teaching"
 
 [params.expository]
-    enable = true
+    enable = false
     title = "Expository"
 
 [params.travel]
