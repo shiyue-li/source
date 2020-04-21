@@ -13,6 +13,10 @@
         <a href="#" class="main-navigation-link" data-scroll-goto="2">{{ .Site.Params.teaching.title }}</a>
         {{ end }}
 
+        {{ if .Site.Params.expository.enable }}
+        <a href="#" class="main-navigation-link" data-scroll-goto="2">{{ .Site.Params.expository.title }}</a>
+        {{ end }}
+
         {{ if .Site.Params.travel.enable }}
         <a href="#" class="main-navigation-link" data-scroll-goto="3">{{ .Site.Params.travel.title }}</a>
         {{ end }}

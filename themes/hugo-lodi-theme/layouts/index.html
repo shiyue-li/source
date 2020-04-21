@@ -21,6 +21,10 @@
             {{ partial "teaching.html" . }}
             {{ end }}
 
+            {{ if .Site.Params.expository.enable }}
+            {{ partial "expository.html" . }}
+            {{ end }}
+
             {{ if .Site.Params.travel.enable }}
             {{ partial "travel.html" . }}
             {{ end }}
