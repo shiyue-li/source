@@ -26,12 +26,12 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     hero_right = ["**Curiouser and curiouser!**",
     "I'm a PhD student in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
     "My current research interest is to study enumerative and intersection problems in algebraic geometry, using techniques from combinatorics and representation theory.",
-    "Prior to Brown, I was a Lang Fellow at [Yale](https://math.yale.edu/) where I received my M.Sc. in math and had spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) studying math and music.",
-    "I also enjoyed computing and AI. With that, I was lucky to work with amazing research scientists at [Google Research](https://research.google/) during undergrad.",
+    "Prior to Brown, I studied math at [Yale](https://math.yale.edu/) and had spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) doing math and music.",
+    "I also enjoyed computing and AI, while working at [Google Research](https://research.google/).",
     "Click on the four icons below my pic for cv, email, github and google scholar, up to a permutation."
     ]
 
-    resume = "shiyueli-2020jan.pdf"  # need update
+    resume = "shiyueli_cv_2020.pdf"  # need update
 
 [params.research]
     enable = true
