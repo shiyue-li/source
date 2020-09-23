@@ -28,8 +28,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     "My current research interest is to study enumerative and intersection problems in algebraic geometry, using techniques from combinatorics and representation theory.",
     "Prior to Brown, I studied math at [Yale](https://math.yale.edu/) and had spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) doing math and music.",
     "I also enjoyed computing and AI, while working at [Google Research](https://research.google/).",
-    "Click on the four icons below my pic for cv, email, github and google scholar, up to a permutation."
-    ]
+    "Here are my [cv](http://www.shiyue.li/shiyueli_cv_2020.pdf), [github](https://github.com/shiyue-li), [google scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), and [email](mailto:shiyue_li@brown.edu)."  ]
 
     resume = "shiyueli_cv_2020.pdf"  # need update
 
