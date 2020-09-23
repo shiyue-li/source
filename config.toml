@@ -11,9 +11,9 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     description_photo = "portfolio.png" # need update
     favicon = "favicon.png"  # need update
     logo = "logo.png"  # need update
-    email = "shiyue_li@brown.edu"
-    github = "https://github.com/shiyue-li"
-    googlescholar = "https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en"
+    # email = "shiyue_li@brown.edu"
+    # github = "https://github.com/shiyue-li"
+    # googlescholar = "https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en"
 
 
 [params.nav]
@@ -30,7 +30,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     "I also enjoyed computing and AI, while working at [Google Research](https://research.google/).",
     "Here are my [cv](http://www.shiyue.li/shiyueli_cv_2020.pdf), [github](https://github.com/shiyue-li), [google scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), and [email](mailto:shiyue_li@brown.edu)."  ]
 
-    resume = "shiyueli_cv_2020.pdf"  # need update
+    # resume = "shiyueli_cv_2020.pdf"  # need update
 
 [params.research]
     enable = true
