@@ -4,10 +4,11 @@ publishDir = "/Users/admin/Documents/GitHub/shiyue-li.github.io/"
 title = "Shiyue Li"
 theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
+hasCJKLanguage = true
 
 [params]
     theme_color = "#574CDD"
-    description = "Shiyue Li"
+    description = "李诗乐"
     description_photo = "portfolio.png" # need update
     favicon = "favicon.png"  # need update
     logo = "logo.png"  # need update
@@ -22,7 +23,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 [params.hero]
     enable = true
     avatar = "avatar.jpg"
-    subtitle = "Shiyue Li"
+    subtitle = "李詩樂/Shiyue Li"
     hero_right = ["**Curiouser and curiouser!**",
     "I'm a PhD student in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
     "My research interests are enumerative geometry and combinatorics.",
