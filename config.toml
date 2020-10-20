@@ -23,11 +23,11 @@ hasCJKLanguage = true
 [params.hero]
     enable = true
     avatar = "avatar.jpg"
-    subtitle = "李詩樂/Shiyue Li"
+    subtitle = "Shiyue (詩樂) in the Rockies"
     hero_right = ["**Curiouser and curiouser!**",
-    "I'm a PhD student in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
+    "I'm doing a PhD in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
     "My research interests are enumerative geometry and combinatorics.",
-    "Prior to Brown, I studied math at [Yale](https://math.yale.edu/) and had spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) doing math and music.",
+    "Prior to Brown, I studied math at [Yale University](https://math.yale.edu/) and had spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) doing math and music. My undergrad thesis work was advised by [Dagan Karp](https://www.math.hmc.edu/~dk/).",
     "I also enjoyed computing and AI, while working at [Google Research](https://research.google/).",
     "Here are my [cv](http://www.shiyue.li/shiyueli_cv_2020.pdf), [github](https://github.com/shiyue-li), [google scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), and [email](mailto:shiyue_li@brown.edu)."  ]
 
