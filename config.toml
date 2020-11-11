@@ -23,8 +23,8 @@ hasCJKLanguage = true
 [params.hero]
     enable = true
     avatar = "avatar.jpg"
-    subtitle = "Shiyue (詩樂) in the Rockies"
-    hero_right = ["**Curiouser and curiouser!**",
+    subtitle = "Shiyue (詩樂) Li"
+    hero_right = [
     "I'm doing a PhD in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
     "My research interests lie in the intersection of algebraic geometry, combinatorics and topology.",
     "Prior to Brown, I studied math at [Yale University](https://math.yale.edu/) and had spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) doing math and music. My undergrad thesis work was advised by [Dagan Karp](https://www.math.hmc.edu/~dk/).",
