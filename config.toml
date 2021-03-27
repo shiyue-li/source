@@ -25,11 +25,11 @@ hasCJKLanguage = true
     avatar = "avatar.jpg"
     subtitle = "Shiyue (詩樂) Li"
     hero_right = [
-    "I'm doing a PhD in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
-    "My research interests lie in the intersection of algebraic geometry, combinatorics and topology. More specifically, I think about moduli space of curves and the combinatorics thereof induced by tropical geometry, matroids, Schubert calculus and enumerative geometry.",
+    "I'm a PhD student in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
+    "My research interests sit in the intersection of algebraic geometry, combinatorics and topology. More specifically, I think about matroids, Schubert calculus, enumerative geometry, moduli spaces of curves and their combinatorics induced by tropical geometry.",
     "Prior to Brown, I studied math at [Yale University](https://math.yale.edu/) and had spent wonderful four years of undergrad at [Harvey Mudd College](https://www.hmc.edu) doing math and music. My undergrad thesis work was advised by [Dagan Karp](https://www.math.hmc.edu/~dk/).",
     "I also enjoyed computing and AI, while working at [Google Research](https://research.google/).",
-    "Here are my [CV](http://www.shiyue.li/shiyueli-cv.pdf), [GitHub](https://github.com/shiyue-li), [Google Scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), and [Email](mailto:shiyue_li@brown.edu)."  ]
+    "Here are my [CV](http://www.shiyue.li/shiyueli_cv_2020.pdf), [GitHub](https://github.com/shiyue-li), [Google Scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), and [Email](mailto:shiyue_li@brown.edu)."  ]
 
 [params.research]
     enable = true
