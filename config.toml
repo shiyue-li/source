@@ -23,7 +23,7 @@ hasCJKLanguage = true
 [params.hero]
     enable = true
     avatar = "avatar.jpg"
-    subtitle = "Shiyue (詩樂) Li"
+    subtitle = "Shiyue Li 詩樂"
     hero_right = [
     "I'm a PhD student in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
     "My research interests sit in the intersection of algebraic geometry, combinatorics and topology. More specifically, I think about matroids, Schubert calculus, enumerative geometry, moduli spaces of curves and their combinatorics induced by tropical geometry.",
