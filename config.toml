@@ -33,7 +33,7 @@ hasCJKLanguage = true
     title = "Research"
 
 [params.teaching]
-    enable = false
+    enable = true
     title = "Teaching"
 
 [params.expository]
