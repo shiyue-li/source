@@ -7,7 +7,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 hasCJKLanguage = true
 
 [params]
-    theme_color = "#574CDD"
+    theme_color = "#228b22"
     description = "李诗乐"
     description_photo = "portfolio.png" # need update
     favicon = "favicon.png"  # need update
