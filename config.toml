@@ -22,7 +22,7 @@ hasCJKLanguage = true
     avatar = "avatar.jpg"
     subtitle = "Shiyue Li 詩樂"
     hero_right = [
-    "I'm a PhD student in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
+    "I'm a PhD candidate in Mathematics at [Brown University](https://www.brown.edu/academics/math/). I'm fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
     "My research interest is in combinatorial algebraic geometry. More specifically, I think about tropical geometry, moduli spaces of curves, Schubert calculus, geometric models and invariants of matroids.",
     "Prior to Brown, I was at [Yale University](https://math.yale.edu/) and [Harvey Mudd College](https://www.hmc.edu), doing math and (an excessive amount of) music. My undergrad thesis work was advised by [Dagan Karp](https://www.math.hmc.edu/~dk/).",
     "I also enjoy computing and AI, and worked at [Google Research](https://research.google/).",
