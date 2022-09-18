@@ -45,7 +45,7 @@ hasCJKLanguage = true
     title = "Travel"
 
 [params.misc]
-    enable = true
+    enable = false
     title = "Misc"
 
 [params.footer]
