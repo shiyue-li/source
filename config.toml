@@ -26,7 +26,7 @@ hasCJKLanguage = true
     "My research interest is in combinatorial algebraic geometry. More specifically, I think about tropical geometry, moduli spaces of curves, Schubert calculus, geometric models and invariants of matroids.",
     "Prior to Brown, I was at [Yale University](https://math.yale.edu/) and [Harvey Mudd College](https://www.hmc.edu), doing math and (an excessive amount of) music. My undergrad thesis work was advised by [Dagan Karp](https://www.math.hmc.edu/~dk/).",
     "I also enjoy computing and AI, and worked at [Google Research](https://research.google/).",
-    "Here are my [CV](http://www.shiyue.li/shiyueli-website-2022.pdf), [Google Scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), [arXiv](https://arxiv.org/search/?query=%22shiyue+li%22&searchtype=all&source=header) and [Email](mailto:shiyue_li@brown.edu)."  ]
+    "Here are my [Curriculum Vitae](http://www.shiyue.li/shiyueli-website-2022.pdf), [Google Scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), [arXiv](https://arxiv.org/search/?query=%22shiyue+li%22&searchtype=all&source=header) and [Email](mailto:shiyue_li@brown.edu)."  ]
 
 [params.research]
     enable = true
