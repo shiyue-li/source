@@ -20,13 +20,13 @@ hasCJKLanguage = true
 [params.hero]
     enable = true
     avatar = "avatar.jpg"
-    subtitle = "Shiyue Li 詩樂"
+    subtitle = "Shiyue Li 李詩樂"
     hero_right = [
-    "From fall 2023, I will be a member at the [Institute for Advanced Study](https://www.ias.edu), mentored by [June Huh](https://web.math.princeton.edu/~huh/).",
+    "I am a mathematician at the [Institute for Advanced Study](https://www.ias.edu), mentored by [June Huh](https://web.math.princeton.edu/~huh/).",
     "My research interest is in combinatorial algebraic geometry. More specifically, I think about K-theory, Hodge structures and intersection theory of moduli spaces of curves, geometric models and invariants of matroids, and applications of algebraic geometry to combinatorics.",
-    "I recently passed my defense at [Brown University](https://www.brown.edu/academics/math/), where I have been fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
+    "In 2019-2023, I did my PhD in [Brown University](https://www.brown.edu/academics/math/), where I was fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/).",
     "Prior, I was at [Yale University](https://math.yale.edu/) and [Harvey Mudd College](https://www.hmc.edu), doing math and (an excessive amount of) music. My undergrad thesis was advised by [Dagan Karp](https://www.math.hmc.edu/~dk/).",
-    "Here are my [Curriculum Vitae](http://www.shiyue.li/shiyueli-website-2023.pdf), [Google Scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), [arXiv](https://arxiv.org/search/?query=%22shiyue+li%22&searchtype=all&source=header) and [Email](mailto:shiyue_li@brown.edu)."  ]
+    "Here are my [Curriculum Vitae](http://www.shiyue.li/shiyueli-website-2023.pdf), [Google Scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), [arXiv](https://arxiv.org/search/?query=%22shiyue+li%22&searchtype=all&source=header) and [Email](mailto:shiyue_li@ias.edu)."  ]
 
 [params.research]
     enable = true
