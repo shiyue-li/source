@@ -22,13 +22,10 @@ hasCJKLanguage = true
     avatar = "avatar.jpg"
     subtitle = "Shiyue Li 李詩樂"
     hero_right = [
-    "I am a mathematician at the [Institute for Advanced Study](https://www.ias.edu), mentored by [June Huh](https://web.math.princeton.edu/~huh/).",
-    "My research interest is combinatorial algebraic geometry. More specifically, I think about: ",
-    "* K-theory, Hodge structures and intersection theory of moduli spaces of curves,",
-    "* geometric models and invariants of matroidal structures,",
-    "* applications of algebraic geometry to combinatorics.",
-    "In 2023, I got a PhD in mathematics at [Brown University](https://www.brown.edu/academics/math/), where I was fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/). ", 
-    "Prior, I spent wonderful four years at [Harvey Mudd College](https://www.hmc.edu); my undergrad thesis work was guided by the wisdom of [Dagan Karp](https://www.math.hmc.edu/~dk/).",
+    "I am a Donald J. Lewis assistant professor at the [University of Michigan](https://lsa.umich.edu/math), mentored by [David Speyer](https://websites.umich.edu/~speyer/).",
+    "From 2023 to 2025, I was at the [Institute for Advanced Study](https://www.ias.edu), mentored by [June Huh](https://web.math.princeton.edu/~huh/).", 
+    "From 2019 to 2023, I was a PhD student in mathematics at [Brown University](https://www.brown.edu/academics/math/), where I was fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/). ", 
+    "Prior, I spent wonderful four years at [Harvey Mudd College](https://www.hmc.edu); my undergrad thesis work was guided by [Dagan Karp](https://www.math.hmc.edu/~dk/).",
     "Here are my [Curriculum Vitae](http://www.shiyue.li/shiyueli-website-2025.pdf), [Google Scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), [arXiv](https://arxiv.org/search/?query=%22shiyue+li%22&searchtype=all&source=header) and [Email](mailto:shiyue_li@ias.edu)."  ]
 
 [params.research]
