@@ -13,7 +13,6 @@ hasCJKLanguage = true
     favicon = "favicon.png"  # need update
     logo = "logo.png"  # need update
 
-
 [params.nav]
     enable = true
 
@@ -23,11 +22,13 @@ hasCJKLanguage = true
     subtitle = "Shiyue Li 李詩樂"
     hero_right = [
     "I am a Donald J. Lewis assistant professor at the [University of Michigan](https://lsa.umich.edu/math), mentored by [David Speyer](https://websites.umich.edu/~speyer/).",
+    "I work in algebraic geometry and combinatorics. More specifically, I study combinatorial structures in algebraic varieties and their moduli spaces. I am broadly interested in questions connected to number theory, algebraic topology, and algebraic K-theory.", 
     "From 2023 to 2025, I was a member at the [Institute for Advanced Study](https://www.ias.edu), mentored by [June Huh](https://web.math.princeton.edu/~huh/).", 
     "In 2023, I got a PhD in mathematics at [Brown University](https://www.brown.edu/academics/math/), where I was fortunate to be advised by [Melody Chan](https://www.math.brown.edu/~mtchan/). ", 
     "Prior, I spent wonderful four years at [Harvey Mudd College](https://www.hmc.edu); my undergrad thesis work was guided by [Dagan Karp](https://www.math.hmc.edu/~dk/).",
     "Here are my [Curriculum Vitae](http://www.shiyue.li/shiyueli-website-2026.pdf), [Google Scholar](https://scholar.google.com/citations?user=wnfrXdMAAAAJ&hl=en), [arXiv](https://arxiv.org/search/?query=%22shiyue+li%22&searchtype=all&source=header) and [Email](mailto:shiyueli@umich.edu).",
-    "I am applying for tenure-track positions in Fall 2025."]
+    # "I am applying for tenure-track positions in Fall 2025."]
+    ]
 
 [params.research]
     enable = true
@@ -39,7 +40,7 @@ hasCJKLanguage = true
 
 [params.misc]
     enable = true
-    title = "Music"
+    title = "Music & Mountains"
 
 [params.expository]
     enable = false
